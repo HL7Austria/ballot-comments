@@ -1,5 +1,25 @@
 [
   {
+    "page": "http://localhost:8000/index.html",
+    "startXPath": "/html/body/div[4]/div/div/div/div/h3[5]/text()",
+    "startOffset": 0,
+    "endXPath": "/html/body/div[4]/div/div/div/div/h3[5]/text()",
+    "endOffset": 14,
+    "url": "https://github.com/HL7Austria/ELGA-FHIR-e-Medikation-R5/discussions/30",
+    "createdAt": "2025-05-01T12:51:30Z",
+    "number": 30
+  },
+  {
+    "page": "http://localhost:8000/index.html",
+    "startXPath": "/html/body/div[4]/div/div/div/div/p[12]/text()",
+    "startOffset": 58,
+    "endXPath": "/html/body/div[4]/div/div/div/div/p[12]/text()",
+    "endOffset": 240,
+    "url": "https://github.com/HL7Austria/ELGA-FHIR-e-Medikation-R5/discussions/31",
+    "createdAt": "2025-05-01T12:52:06Z",
+    "number": 31
+  },
+  {
     "page": "https://fhir.hl7.at/r5-ELGA-e-medikation-section-specific-ballot-tool-approach/index.html",
     "startXPath": "/html/body/div[4]/div/div/div/div/p[4]/text()",
     "startOffset": 0,
