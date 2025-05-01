@@ -1,0 +1,62 @@
+[
+  {
+    "page": "https://fhir.hl7.at/r5-ELGA-e-medikation-section-specific-ballot-tool-approach/index.html",
+    "startXPath": "/html/body/div[4]/div/div/div/div/p[4]/text()",
+    "startOffset": 0,
+    "endXPath": "/html/body/div[4]/div/div/div/div/p[4]/text()",
+    "endOffset": 29,
+    "url": "https://github.com/HL7Austria/ELGA-FHIR-e-Medikation-R5/discussions/29",
+    "createdAt": "2025-04-30T11:26:48Z",
+    "number": 29
+  },
+  {
+    "page": "https://fhir.hl7.at/r5-ELGA-e-medikation-section-specific-ballot-tool-approach/StructureDefinition-eMed-prescription-with-multiple-eMed-requests.html",
+    "startXPath": "/html/body/div[4]/div/div/div/div/div/div/div/div/table/tbody/tr[5]/td[3]/text()",
+    "startOffset": 0,
+    "endXPath": "/html/body/div[4]/div/div/div/div/div/div/div/div/table/tbody/tr[5]/td[3]/text()",
+    "endOffset": 4,
+    "url": "https://github.com/HL7Austria/ELGA-FHIR-e-Medikation-R5/discussions/28",
+    "createdAt": "2025-04-30T10:48:27Z",
+    "number": 28
+  },
+  {
+    "page": "https://fhir.hl7.at/r5-ELGA-e-medikation-section-specific-ballot-tool-approach/index.html",
+    "startXPath": "/html/body/div[4]/div/div/div/div/p[6]/text()",
+    "startOffset": 0,
+    "endXPath": "/html/body/div[4]/div/div/div/div/p[6]/text()",
+    "endOffset": 394,
+    "url": "https://github.com/HL7Austria/ELGA-FHIR-e-Medikation-R5/discussions/27",
+    "createdAt": "2025-04-30T10:43:40Z",
+    "number": 27
+  },
+  {
+    "page": "https://fhir.hl7.at/r5-ELGA-e-medikation-section-specific-ballot-tool-approach/index.html",
+    "startXPath": "/html/body/div[4]/div/div/div/div/p[10]/text()",
+    "startOffset": 0,
+    "endXPath": "/html/body/div[4]/div/div/div/div/p[10]/text()",
+    "endOffset": 198,
+    "url": "https://github.com/HL7Austria/ELGA-FHIR-e-Medikation-R5/discussions/26",
+    "createdAt": "2025-04-30T05:38:05Z",
+    "number": 26
+  },
+  {
+    "page": "https://fhir.hl7.at/r5-ELGA-e-medikation-section-specific-ballot-tool-approach/index.html",
+    "startXPath": "/html/body/div[4]/div/div/div/div/p[4]/text()",
+    "startOffset": 0,
+    "endXPath": "/html/body/div[4]/div/div/div/div/p[4]/text()",
+    "endOffset": 389,
+    "url": "https://github.com/HL7Austria/ELGA-FHIR-e-Medikation-R5/discussions/25",
+    "createdAt": "2025-04-27T19:25:22Z",
+    "number": 25
+  },
+  {
+    "page": "https://fhir.hl7.at/r5-ELGA-e-medikation-section-specific-ballot-tool-approach/index.html",
+    "startXPath": "/html/body/div[4]/div/div/div/div/p[3]/text()",
+    "startOffset": 0,
+    "endXPath": "/html/body/div[4]/div/div/div/div/p[3]/text()",
+    "endOffset": 162,
+    "url": "https://github.com/HL7Austria/ELGA-FHIR-e-Medikation-R5/discussions/24",
+    "createdAt": "2025-04-27T17:39:27Z",
+    "number": 24
+  }
+]
