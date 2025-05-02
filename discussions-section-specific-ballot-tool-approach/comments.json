@@ -23,7 +23,7 @@
   },
   {
     "commentId": "test",
-    "page": "http://localhost:8000/StructureDefinition-eMed-prescription-with-multiple-eMed-requests.html",
+    "page": "/StructureDefinition-eMed-prescription-with-multiple-eMed-requests.html",
     "startXPath": "/html/body/div[4]/div/div/div/div/div/div/div/div/table/tbody/tr[10]/td[5]/text()",
     "startOffset": 0,
     "endXPath": "/html/body/div[4]/div/div/div/div/div/div/div/div/table/tbody/tr[10]/td[5]/text()",
@@ -56,7 +56,7 @@
   },
   {
     "commentId": "aHR0cDovL2xvY2FsaG9zdDo4MDAwL2luZGV4Lmh0bWx8L2h0bWwvYm9keS9kaXZbNF0vZGl2L2Rpdi9kaXYvZGl2L2gzWzVdL3RleHQoKXwwfC9odG1sL2JvZHkvZGl2WzRdL2Rpdi9kaXYvZGl2L2Rpdi9oM1s1XS90ZXh0KCl8MTQ=",
-    "page": "http://localhost:8000/index.html",
+    "page": "/index.html",
     "startXPath": "/html/body/div[4]/div/div/div/div/h3[5]/text()",
     "startOffset": 0,
     "endXPath": "/html/body/div[4]/div/div/div/div/h3[5]/text()",
