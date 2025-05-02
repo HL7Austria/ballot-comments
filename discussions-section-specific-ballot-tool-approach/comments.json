@@ -1,8 +1,8 @@
 [
   {
-    "commentId": "/usecase_de.html|/html/body/div[4]/div*4/ul/li[4]/text()|0|22",
+    "commentId": "/usecase_de.html|//html/body/div[4]/div*4/ul/li[4]/text()|0|22",
     "page": "/usecase_de.html",
-    "startXPath": "/html/body/div[4]/div*4/ul/li[4]/text()",
+    "startXPath": "/html/body/div[4]/div/div/div/div/ul/li[4]/text()",
     "startOffset": 0,
     "endOffset": 22,
     "url": "https://github.com/HL7Austria/ELGA-FHIR-e-Medikation-R5/discussions/39",
@@ -10,9 +10,9 @@
     "number": 39
   },
   {
-    "commentId": "/intro_de.html|/html/body/div[4]/div*4/p[2]/text()|348|632",
-    "page": "/intro_de.html",
-    "startXPath": "/html/body/div[4]/div*4/p[2]/text()",
+    "commentId": "http://localhost:8000/intro_de.html|//html/body/div[4]/div*4/p[2]/text()|348|632",
+    "page": "http://localhost:8000/intro_de.html",
+    "startXPath": "/html/body/div[4]/div/div/div/div/p[2]/text()",
     "startOffset": 348,
     "endOffset": 632,
     "url": "https://github.com/HL7Austria/ELGA-FHIR-e-Medikation-R5/discussions/38",
