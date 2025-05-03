@@ -1,0 +1,102 @@
+[
+  {
+    "commentId": "/r5-ELGA-e-medikation-section-specific-ballot-tool-approach/usecase_de.html|/html[1]/body[1]/div[4]/div[1]*4/ul[24]/li[1]/p[2]/text()|0|682",
+    "page": "/r5-ELGA-e-medikation-section-specific-ballot-tool-approach/usecase_de.html",
+    "startXPath": "/html[1]/body[1]/div[4]/div[1]/div[1]/div[1]/div[1]/ul[24]/li[1]/p[2]/text()",
+    "startOffset": 0,
+    "endOffset": 682,
+    "url": "https://github.com/HL7Austria/ELGA-FHIR-e-Medikation-R5/discussions/47",
+    "createdAt": "2025-05-03T17:13:42Z",
+    "number": 47
+  },
+  {
+    "commentId": "/r5-ELGA-e-medikation-section-specific-ballot-tool-approach/usecase_de.html|/html[1]/body[1]/div[4]/div[1]*4/ul[22]/li[1]/text()|0|178",
+    "page": "/r5-ELGA-e-medikation-section-specific-ballot-tool-approach/usecase_de.html",
+    "startXPath": "/html[1]/body[1]/div[4]/div[1]/div[1]/div[1]/div[1]/ul[22]/li[1]/text()",
+    "startOffset": 0,
+    "endOffset": 178,
+    "url": "https://github.com/HL7Austria/ELGA-FHIR-e-Medikation-R5/discussions/46",
+    "createdAt": "2025-05-03T17:11:19Z",
+    "number": 46
+  },
+  {
+    "commentId": "/StructureDefinition-eMed-prescription-with-multiple-eMed-requests-examples.html|/html[1]/body[1]/div[4]/div[1]*4/p[2]/text()|30|71",
+    "page": "/StructureDefinition-eMed-prescription-with-multiple-eMed-requests-examples.html",
+    "startXPath": "/html[1]/body[1]/div[4]/div[1]/div[1]/div[1]/div[1]/p[2]/text()",
+    "startOffset": 30,
+    "endOffset": 71,
+    "url": "https://github.com/HL7Austria/ELGA-FHIR-e-Medikation-R5/discussions/45",
+    "createdAt": "2025-05-02T15:20:03Z",
+    "number": 45
+  },
+  {
+    "commentId": "/StructureDefinition-eMed-prescription-with-multiple-eMed-requests-mappings.html|/html[1]/body[1]/div[4]/div[1]*4/table[2]/tbody[1]/tr[17]/td[2]/text()|0|17",
+    "page": "/StructureDefinition-eMed-prescription-with-multiple-eMed-requests-mappings.html",
+    "startXPath": "/html[1]/body[1]/div[4]/div[1]/div[1]/div[1]/div[1]/table[2]/tbody[1]/tr[17]/td[2]/text()",
+    "startOffset": 0,
+    "endOffset": 17,
+    "url": "https://github.com/HL7Austria/ELGA-FHIR-e-Medikation-R5/discussions/44",
+    "createdAt": "2025-05-02T15:19:27Z",
+    "number": 44
+  },
+  {
+    "commentId": "/StructureDefinition-eMed-prescription-with-multiple-eMed-requests.html|/html[1]/body[1]/div[4]/div[1]*8/table[3]/tbody[1]/tr[6]/td[3]/text()|0|20",
+    "page": "/StructureDefinition-eMed-prescription-with-multiple-eMed-requests.html",
+    "startXPath": "/html[1]/body[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/table[3]/tbody[1]/tr[6]/td[3]/text()",
+    "startOffset": 0,
+    "endOffset": 20,
+    "url": "https://github.com/HL7Austria/ELGA-FHIR-e-Medikation-R5/discussions/43",
+    "createdAt": "2025-05-02T15:17:58Z",
+    "number": 43
+  },
+  {
+    "commentId": "/StructureDefinition-eMed-prescription-with-multiple-eMed-requests.html|/html[1]/body[1]/div[4]/div[1]*8/table[1]/tbody[1]/tr[10]/td[4]/a[2]/text()|0|28",
+    "page": "/StructureDefinition-eMed-prescription-with-multiple-eMed-requests.html",
+    "startXPath": "/html[1]/body[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/table[1]/tbody[1]/tr[10]/td[4]/a[2]/text()",
+    "startOffset": 0,
+    "endOffset": 28,
+    "url": "https://github.com/HL7Austria/ELGA-FHIR-e-Medikation-R5/discussions/42",
+    "createdAt": "2025-05-02T15:10:09Z",
+    "number": 42
+  },
+  {
+    "commentId": "/StructureDefinition-eMed-prescription-with-multiple-eMed-requests.html|/html/body/div[4]/div*8/table/tbody/tr[3]/td[5]/text()|0|7",
+    "page": "/StructureDefinition-eMed-prescription-with-multiple-eMed-requests.html",
+    "startXPath": "/html/body/div[4]/div/div/div/div/div/div/div/div/table/tbody/tr[3]/td[5]/text()",
+    "startOffset": 0,
+    "endOffset": 7,
+    "url": "https://github.com/HL7Austria/ELGA-FHIR-e-Medikation-R5/discussions/41",
+    "createdAt": "2025-05-02T15:00:51Z",
+    "number": 41
+  },
+  {
+    "commentId": "/StructureDefinition-eMed-prescription-with-multiple-eMed-requests.html|/html/body/div[4]/div*8/table/tbody/tr[5]/td[3]/text()|0|4",
+    "page": "/StructureDefinition-eMed-prescription-with-multiple-eMed-requests.html",
+    "startXPath": "/html/body/div[4]/div/div/div/div/div/div/div/div/table/tbody/tr[5]/td[3]/text()",
+    "startOffset": 0,
+    "endOffset": 4,
+    "url": "https://github.com/HL7Austria/ELGA-FHIR-e-Medikation-R5/discussions/40",
+    "createdAt": "2025-05-02T14:50:10Z",
+    "number": 40
+  },
+  {
+    "commentId": "/usecase_de.html|/html/body/div[4]/div*4/ul/li[4]/text()|0|22",
+    "page": "/usecase_de.html",
+    "startXPath": "/html/body/div[4]/div/div/div/div/ul/li[4]/text()",
+    "startOffset": 0,
+    "endOffset": 22,
+    "url": "https://github.com/HL7Austria/ELGA-FHIR-e-Medikation-R5/discussions/39",
+    "createdAt": "2025-05-02T14:17:57Z",
+    "number": 39
+  },
+  {
+    "commentId": "/intro_de.html|/html/body/div[4]/div*4/p[2]/text()|348|632",
+    "page": "/intro_de.html",
+    "startXPath": "/html/body/div[4]/div/div/div/div/p[2]/text()",
+    "startOffset": 348,
+    "endOffset": 632,
+    "url": "https://github.com/HL7Austria/ELGA-FHIR-e-Medikation-R5/discussions/38",
+    "createdAt": "2025-05-02T14:07:06Z",
+    "number": 38
+  }
+]
