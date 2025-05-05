@@ -1,6 +1,6 @@
 # Balloting Tool
 
-This page describes the new HL7Austria balloting tool. The first section explains how ballot participants can use it. The second section describes the setup for new ballots and the third section shows how the highlighting/comment mechanism works.
+This page describes the new HL7Austria balloting tool. The first section explains how ballot participants can use it. The second section describes the setup for new ballots and the third section shows how the highlight/comment mechanism works.
 
 # Balloting Tool for ballot participants
 
@@ -10,10 +10,12 @@ This page describes the new HL7Austria balloting tool. The first section explain
 ## Before first comment
 1. Click on a highlighted section that already exists
 2. Scroll down to the bottom of the box and press Sign in with Github:
+
  ![github sign in](github-sign-in.png)
-3. Sign in with your github account
-4. Accept the permissions for giscus before the first use:
- ![giscus permission](giscus-permission.png)
+
+4. Sign in with your github account
+5. Accept the permissions for giscus before the first use:
+<img src="giscus-permission.png" alt="giscus permission" width="300" >
 
 
 ## How to write comments
@@ -26,11 +28,12 @@ This page describes the new HL7Austria balloting tool. The first section explain
     b.) After you filled out both text fields and selected a rating you can press "copy and comment". 
 4. The giscus window opens - here simply paste the contents that were automatically copied by pressing "copy and comment" and press the "Comment" button. 
 5. The comment has now been sucessfully recorded. If the page is reloaded it is possible that the highlighted section is not displayed immediately as it can take up to a couple minutes to show up. The comment has been registered and is being updated so **please do not submit it again!** To double check wheter it was submitted you can go to the repository of the IG (all repositories can be found [here](https://github.com/HL7Austria)) and click on "Discussions":
+   
 ![discussions overview](discussions-overview.png)
+
 The comment should be visible at the top. To see more details click on the discussion. This will look similar to this [example](https://github.com/HL7Austria/ELGA-FHIR-e-Medikation-R5/discussions/54): 
+
 ![discussion example](discussions-example.png)
-
-
 
 ### !Attention! 
  - Highlights usually appear within 1–5 minutes.
@@ -46,21 +49,23 @@ Follow [this guide](https://docs.github.com/en/repositories/managing-your-reposi
 ## Giscus Setup
 
 1. Install github app giscus for your repo using this [link](https://github.com/apps/giscus). Press "configure" and select HL7Austria as the Organization.
-![giscus app](giscus-app.png)
-2. Select the repository for which giscus should be enabled and request access.
-![giscus repository access](giscus-repository-access.png)
+<img src="giscus-app.png" alt="giscus app" width="700" >
 
-3. Once access is granted go to this [website](https://giscus.app) and enter the repository name. If steps 1 and two were successful a green checkmark will indicate that giscus is enabled an can be used.
+3. Select the repository for which giscus should be enabled and request access.
+<img src="giscus-repository-access.png" alt="giscus repository access" width="400" >
+
+5. Once access is granted go to this [website](https://giscus.app) and enter the repository name. If steps 1 and two were successful a green checkmark will indicate that giscus is enabled an can be used.
+   
 ![giscus app](giscus-check.png)
 
-4. Set the discussion Category to Comment and then copy the following lines:
+7. Set the discussion Category to Comment and then copy the following lines:
 
         data-repo="HL7Austria/ELGA-FHIR-e-Medikation-R5"
         data-repo-id="R_kgDOLhyFQQ"
         data-category="Comment"
         data-category-id="DIC_kwDOLhyFQc4Cev5-"
         
-5. These values need to be updated in custom-template/content/assets/js/comment-box.js during the IG setup.
+8. These values need to be updated in custom-template/content/assets/js/comment-box.js during the IG setup.
 
 
 ## IG Setup
