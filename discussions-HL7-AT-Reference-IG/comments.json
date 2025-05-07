@@ -1,5 +1,15 @@
 [
   {
+    "commentId": "/HL7-AT-Reference-IG-ballot-tool-test/index.html|/html[1]/body[1]/div[4]/div[1]*4/ul[3]/li[1]/text()|63|100",
+    "page": "/HL7-AT-Reference-IG-ballot-tool-test/index.html",
+    "startXPath": "/html[1]/body[1]/div[4]/div[1]/div[1]/div[1]/div[1]/ul[3]/li[1]/text()",
+    "startOffset": 63,
+    "endOffset": 100,
+    "url": "https://github.com/HL7Austria/HL7-AT-Reference-IG/discussions/7",
+    "createdAt": "2025-05-07T15:02:21Z",
+    "number": 7
+  },
+  {
     "commentId": "/HL7-AT-Reference-IG-ballot-tool-test/index.html|/html[1]/body[1]/div[4]/div[1]*4/p[5]/text()|34|53",
     "page": "/HL7-AT-Reference-IG-ballot-tool-test/index.html",
     "startXPath": "/html[1]/body[1]/div[4]/div[1]/div[1]/div[1]/div[1]/p[5]/text()",
