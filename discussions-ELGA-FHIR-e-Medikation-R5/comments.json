@@ -1,5 +1,15 @@
 [
   {
+    "commentId": "/HL7Austria/hl7austria.github.io/pages/r5-ELGA-e-medikation-section-specific-ballot-tool-approach/index.html|/html[1]/body[1]/div[4]/div[1]*4/p[3]/text()|240|258",
+    "page": "/HL7Austria/hl7austria.github.io/pages/r5-ELGA-e-medikation-section-specific-ballot-tool-approach/index.html",
+    "startXPath": "/html[1]/body[1]/div[4]/div[1]/div[1]/div[1]/div[1]/p[3]/text()",
+    "startOffset": 240,
+    "endOffset": 258,
+    "url": "https://github.com/HL7Austria/ELGA-FHIR-e-Medikation-R5/discussions/69",
+    "createdAt": "2025-11-12T16:44:36Z",
+    "number": 69
+  },
+  {
     "commentId": "/r5-ELGA-e-medikation-section-specific-ballot-tool-approach/index.html|/html[1]/body[1]/div[4]/div[1]*4/p[9]/text()|220|275",
     "page": "/r5-ELGA-e-medikation-section-specific-ballot-tool-approach/index.html",
     "startXPath": "/html[1]/body[1]/div[4]/div[1]/div[1]/div[1]/div[1]/p[9]/text()",
